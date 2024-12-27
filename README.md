@@ -1,3 +1,6 @@
 # Hey there! 👋 I'm Bilal
 
-I'm a Mechatronics Engineering student at the University of Waterloo. I love working on projects that include everything from embedded systems to electrical design. Some of my interests are robotics and wearable tech.
+- 🤖 Studying Mechatronics Engineering at the University of Waterloo. 
+- 🖥️ Working on projects that have 'make things move' in the real world.
+
+Feel free to take a look at my [portfolio](https://www.bilal7.com/) for more of my projects!
